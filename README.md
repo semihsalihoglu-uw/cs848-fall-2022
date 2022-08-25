@@ -18,7 +18,7 @@ as an inference system that can answer questions using the base facts and the ru
 Historically, there has been several periods that have popularized the development of such 
 knowledge graph-based applications. The strongest of these have been the expert systems of 1980,
 the semantic web of 2000s, and the current wave of question answering in search engines, 
-recommender systems, and dataset cataloging and search to handle extreme heterogeneity in 
+recommender systems, and dataset cataloging/search for extremely heterogeneous 
 large public goverment and private enterprise data lakes.
 
 This seminar will cover seminal work in the space of knowledge graph representation, querying,
