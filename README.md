@@ -50,7 +50,7 @@ The below schedule is subject to change:
 
 ## Readings
 
-This seminar's reading will cover chapters from the following surveys and textbooks in addition as research papers mentioned in the schedule.
+This seminar's reading will cover chapters from the following surveys and textbooks in addition to research papers, which are/will be posted in the schedule.
 + [Designing and Building Enterprise Knowledge Graphs](https://link.springer.com/book/10.1007/978-3-031-01916-6), Sequeda \& Lassila, 2021
 + [Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases](https://www.nowpublishers.com/article/Details/DBS-064), Weikum, Dong, Razniewski, Suchanek, 2021
 + [Natural Language Interfaces to Data](https://www.nowpublishers.com/article/Details/DBS-078) Quammar,Efthymiou, Lei, Özcan, 2022
