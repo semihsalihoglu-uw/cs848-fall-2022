@@ -41,7 +41,7 @@ The below schedule is subject to change:
 | -- | 10/11   | No Class (Reading Week) | |
 | 5 | 10/18   | RDF and Property Graph Data Management Systems 1 | |
 | 6 | 10/25   | RDF and Property Graph Data Management Systems 2 (Semih lecturing) | |
-| 7 | 11/01   | Large Public Knowlege Graphs | |
+| 7 | 11/01   | Large Public Knowledge Graphs | |
 | 8 | 11/08   | Enterpise Knowledge Graphs | |
 | 9 | 11/15   | Natural Language Interfaces to Data | |
 | 10 | 11/22   | Deep Natural Language Models | |
