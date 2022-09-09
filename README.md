@@ -50,7 +50,7 @@ The below schedule is subject to change:
 
 ## Readings
 
-This seminar's reading will cover chapters from the following surveys and textbooks in addition to research papers, which are/will be posted in the schedule.
+This seminar's reading will cover chapters from the following surveys and textbooks in addition to research papers, which will be posted in the schedule.
 + [Knowledge Representation and Reasoning](https://www.cin.ufpe.br/~mtcfa/files/in1122/Knowledge%20Representation%20and%20Reasoning.pdf), Brachman \& Levesque, 2004
 + [Designing and Building Enterprise Knowledge Graphs](https://link.springer.com/book/10.1007/978-3-031-01916-6), Sequeda \& Lassila, 2021
 + [Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases](https://www.nowpublishers.com/article/Details/DBS-064), Weikum, Dong, Razniewski, Suchanek, 2021
