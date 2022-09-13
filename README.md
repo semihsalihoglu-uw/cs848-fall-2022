@@ -36,8 +36,8 @@ The below schedule is subject to change:
 |:-----|:-----|:-----|:------------|
 | 1 | 9/13 | Introduction (Semih lecturing) |  [Knowledge Graphs](https://dl.acm.org/doi/10.1145/3418294) <br/> [The Semantic Web](https://www.jstor.org/stable/26059207?seq=1#metadata_info_tab_contents) <br/> SWFO Ch 3, 5-7|
 | 2 | 9/20 | Guest Lecture: Prof. Grant Weddell  <br/> Foundations of Knowledge Representation | |
-| 3 | 9/27 | Logic-based DBMSs  | |
-| 4 | 10/04   |RDF Systems(Semih lecturing) | |
+| 3 | 9/27 | Logic-based DBMSs (online seminar)  | |
+| 4 | 10/04   |RDF Systems | |
 | -- | 10/11   | No Class (Reading Week) | |
 | 5 | 10/18   | Property Graph Data Management Systems (Semih lecturing) | |
 | 6 | 10/25   | Large Public Knowledge Graphs and Ontologies | |
