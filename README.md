@@ -35,17 +35,17 @@ The below schedule is subject to change:
 | Week | Date | Topic | Readings |
 |:-----|:-----|:-----|:------------|
 | 1 | 9/13 | Introduction (Semih lecturing) |  [Knowledge Graphs](https://dl.acm.org/doi/10.1145/3418294) <br/> [The Semantic Web](https://www.jstor.org/stable/26059207?seq=1#metadata_info_tab_contents) <br/> SWFO Ch 3, 5-7|
-| 2 | 9/20 | No Class (Semih Traveling) | |
-| 3 | 9/27 | Knowledge Representation and Inference 1 | |
-| 4 | 10/04   |Knowledge Representation and Inference 2 | |
+| 2 | 9/20 | Prof. Grant Weddell Guest Lecture <br/> Foundations of Knowledge Representation | |
+| 3 | 9/27 | RDF and Property Graph Data Management Systems 1 | |
+| 4 | 10/04   |RDF and Property Graph Data Management Systems 2 (Semih lecturing) | |
 | -- | 10/11   | No Class (Reading Week) | |
-| 5 | 10/18   | RDF and Property Graph Data Management Systems 1 | |
-| 6 | 10/25   | RDF and Property Graph Data Management Systems 2 (Semih lecturing) | |
-| 7 | 11/01   | Large Public Knowledge Graphs | |
-| 8 | 11/08   | Enterpise Knowledge Graphs | |
-| 9 | 11/15   | Natural Language Interfaces to Data | |
-| 10 | 11/22   | Deep Natural Language Models | |
-| 11 | 11/29   | Knowledge Graph Embeddings | |
+| 5 | 10/18   | Large Public Knowledge Graphs and Ontologies | |
+| 6 | 10/25   | Automatic Knowledge Extraction | |
+| 7 | 11/01   | Enterpise Knowledge Graphs  | |
+| 8 | 11/08   | Natural Language Interfaces to Data| |
+| 9 | 11/15   | Deep Natural Language Models | |
+| 10 | 11/22   | Graph Embeddings  | |
+| 11 | 11/29   |  Link Prediction | |
 | 12 | 12/06   | Linked Open Data Movement | |
 
 ## Readings
