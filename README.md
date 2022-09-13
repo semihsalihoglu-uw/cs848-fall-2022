@@ -35,7 +35,7 @@ The below schedule is subject to change:
 | Week | Date | Topic | Readings |
 |:-----|:-----|:-----|:------------|
 | 1 | 9/13 | Introduction (Semih lecturing) |  [Knowledge Graphs](https://dl.acm.org/doi/10.1145/3418294) <br/> [The Semantic Web](https://www.jstor.org/stable/26059207?seq=1#metadata_info_tab_contents) <br/> SWFO Ch 3, 5-7|
-| 2 | 9/20 | Prof. Grant Weddell Guest Lecture <br/> Foundations of Knowledge Representation | |
+| 2 | 9/20 | Guest Lecture: Prof. Grant Weddell  <br/> Foundations of Knowledge Representation | |
 | 3 | 9/27 | RDF and Property Graph Data Management Systems 1 | |
 | 4 | 10/04   |RDF and Property Graph Data Management Systems 2 (Semih lecturing) | |
 | -- | 10/11   | No Class (Reading Week) | |
@@ -45,7 +45,7 @@ The below schedule is subject to change:
 | 8 | 11/08   | Natural Language Interfaces to Data| |
 | 9 | 11/15   | Deep Natural Language Models | |
 | 10 | 11/22   | Graph Embeddings  | |
-| 11 | 11/29   |  Link Prediction | |
+| 11 | 11/29   |  Guest Lecture on Data Cataloging: Juan Sequeda  | |
 | 12 | 12/06   | Linked Open Data Movement | |
 
 ## Readings
