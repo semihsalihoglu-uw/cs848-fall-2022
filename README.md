@@ -36,8 +36,8 @@ The below schedule is subject to change:
 |:-----|:-----|:-----|:------------|
 | 1 | 9/13 | Introduction (Semih lecturing) |  [Knowledge Graphs](https://dl.acm.org/doi/10.1145/3418294) <br/> [The Semantic Web](https://www.jstor.org/stable/26059207?seq=1#metadata_info_tab_contents) <br/> SWFO Ch 3, 5-7|
 | 2 | 9/20 | Guest Lecture: Prof. Grant Weddell  <br/> Foundations of Knowledge Representation | KRR Ch 2 & 3 <br/> (No reviews but do Exercises 1 and 4 in Ch 2.7 of KRR and submit a pdf (latex or hand written)). |
-| 3 | 9/27 | Logic-based DBMSs (online seminar)  | |
-| 4 | 10/04   |RDF Systems | |
+| 3 | 9/27 | Query Processing in Deductive DBMS: Magic Sets (Semih lecturing online)  | PDKBS 12.1-12.8, PDKBS 13.1-13.5 <br/> For background on Datalog see PDKBS 3 (from pgs 96 to 139) <br/> Optional: [Magic Sets Original Paper](https://dl.acm.org/doi/10.1145/6012.15399) <br/> Optional: [Magic is Relevant](https://dl.acm.org/doi/abs/10.1145/93605.98734) |
+| 4 | 10/04   |RDF Systems | [RDFox](https://link.springer.com/content/pdf/10.1007/978-3-319-25010-6_1.pdf) <br/> [RDF3x](https://dl.acm.org/doi/10.14778/1453856.1453927) |
 | -- | 10/11   | No Class (Reading Week) | |
 | 5 | 10/18   | Property Graph Data Management Systems (Semih lecturing) | |
 | 6 | 10/25   | Large Public Knowledge Graphs and Ontologies | |
@@ -58,6 +58,7 @@ This seminar's reading will cover chapters from the following surveys and textbo
 + [Semantic Web for the Working Ontologist (SWFWO)](https://tinyurl.com/2p9672s2), Allemang \& Hendler, 2008
 + The Protégé Project: [1](https://perso.liris.cnrs.fr/amille/enseignements/MasterCode/IC_IA/session2/protege_evolution.pdf), [2](https://dl.acm.org/doi/pdf/10.1145/2757001.2757003)
 + [Rule-Based Expert Systems: The MYCIN Experiments of the Stanford Heuristic Programming Project](https://people.dbmi.columbia.edu/~ehs7001/Buchanan-Shortliffe-1984/MYCIN%20Book.htm), Buchanan, Shortliffe, 1984
++ [Principles of Database and Knowledge-Base Systems (PDKBS)](https://www.sti-innsbruck.at/sites/default/files/Knowledge-Representation-Search-and-Rules/principles-of-database-and-knowledge-base-systems-volume-1-1.pdf), Ullman, 1989
 
 
 ## Workload Breakdown
