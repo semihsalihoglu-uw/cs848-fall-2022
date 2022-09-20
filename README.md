@@ -36,13 +36,13 @@ The below schedule is subject to change:
 |:-----|:-----|:-----|:------------|
 | 1 | 9/13 | Introduction (Semih lecturing) |  [Knowledge Graphs](https://dl.acm.org/doi/10.1145/3418294) <br/> [The Semantic Web](https://www.jstor.org/stable/26059207?seq=1#metadata_info_tab_contents) <br/> SWFO Ch 3, 5-7|
 | 2 | 9/20 | Guest Lecture: Prof. Grant Weddell  <br/> Foundations of Knowledge Representation | KRR Ch 2 & 3 <br/> (No reviews but do Exercises 1 and 4 in Ch 2.7 of KRR and submit a pdf (latex or hand written)). |
-| 3 | 9/27 | Query Processing in Deductive DBMS: Magic Sets (Semih lecturing online)  | PDKBS 12.1-12.8, PDKBS 13.1-13.5 <br/> For background on Datalog see PDKBS 3 (from pgs 96 to 139) <br/> Optional: [Magic Sets Original Paper](https://dl.acm.org/doi/10.1145/6012.15399) <br/> Optional: [Magic is Relevant](https://dl.acm.org/doi/abs/10.1145/93605.98734) |
-| 4 | 10/04   |RDF Systems | [RDFox](https://link.springer.com/content/pdf/10.1007/978-3-319-25010-6_1.pdf) <br/> [RDF3x](https://dl.acm.org/doi/10.14778/1453856.1453927) |
+| 3 | 9/27 | Datalog (Semih lecturing online) |  PDKBS 3 (from pgs 96 to 139 but I highly recommend 139-164 <br /> as well if you have not read on the formalism of relational algebra) |
+| 4 | 10/04   | Query Processing in Deductive DBMS: Magic Sets (Semih lecturing) | PDKBS 12.1-12.8, PDKBS 13.1-13.5 <br/> Optional: [Magic Sets Original Paper](https://dl.acm.org/doi/10.1145/6012.15399) <br/> Optional: [Magic is Relevant](https://dl.acm.org/doi/abs/10.1145/93605.98734) |
 | -- | 10/11   | No Class (Reading Week) | |
-| 5 | 10/18   | Property Graph Data Management Systems (Semih lecturing) | |
-| 6 | 10/25   | Large Public Knowledge Graphs and Ontologies | |
-| 7 | 11/01   | Enterpise Knowledge Graphs | |
-| 8 | 11/08   | Enterpise Knowledge Management Systems | |
+| 5 | 10/18   | RDF Systems | [RDFox](https://link.springer.com/content/pdf/10.1007/978-3-319-25010-6_1.pdf) <br/> [RDF3x](https://dl.acm.org/doi/10.14778/1453856.1453927) |
+| 6 | 10/25   | Property Graph Data Management Systems (Semih lecturing) | |
+| 7 | 11/01   | Large Public Knowledge Graphs and Ontologies | |
+| 8 | 11/08   | Enterpise Knowledge Graphs & Management Systems | |
 | 9 | 11/15   | Natural Language Interfaces to Data | |
 | 10 | 11/22   | Graph Embeddings/Deep Natural Language Embeddings  | |
 | 11 | 11/29   |  Guest Lecture on Data Cataloging: Juan Sequeda  | |
