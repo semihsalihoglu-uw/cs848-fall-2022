@@ -40,7 +40,7 @@ The below schedule is subject to change:
 | 4 | 10/04   | Query Processing in Deductive DBMS: Magic Sets (Semih lecturing) | PDKBS 12.1-12.8, PDKBS 13.1-13.5 <br/> Optional: [Magic Sets Original Paper](https://dl.acm.org/doi/10.1145/6012.15399) <br/> Optional: [Magic is Relevant](https://dl.acm.org/doi/abs/10.1145/93605.98734) |
 | -- | 10/11   | No Class (Reading Week) | |
 | 5 | 10/18   | RDF Systems | [RDFox](https://link.springer.com/content/pdf/10.1007/978-3-319-25010-6_1.pdf) <br/> [RDF3x](https://dl.acm.org/doi/10.14778/1453856.1453927) |
-| 6 | 10/25   | Property Graph Data Management Systems (Semih lecturing) | |
+| 6 | 10/25   | Property Graph Data Management Systems (Semih lecturing) | [The Ubiquity of Large Graphs User Survey](https://cs.uwaterloo.ca/~jimmylin/publications/Sahu_etal_VLDBJ2019.pdf) <br/> [FDB](http://vldb.org/pvldb/vol5/p1232_nurzhanbakibayev_vldb2012.pdf) <br/> [Optimizing Subgraph Queries by Combining Binary and WCOJ](https://www.vldb.org/pvldb/vol12/p1692-mhedhbi.pdf) <br/> Optional: [Umbra WCOJ Implementation](https://db.in.tum.de/~freitag/papers/p1891-freitag.pdf) |
 | 7 | 11/01   | Large Public Knowledge Graphs and Ontologies | |
 | 8 | 11/08   | Enterpise Knowledge Graphs & Management Systems | |
 | 9 | 11/15   | Natural Language Interfaces to Data | |
