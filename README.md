@@ -44,7 +44,7 @@ The below schedule is subject to change:
 | 7 | 11/01   | Large Public Knowledge Graphs and Ontologies | [DBPedia](https://www.researchgate.net/publication/259828897_DBpedia_-_A_Large-scale_Multilingual_Knowledge_Base_Extracted_from_Wikipedia) <br/> [SNODEM](https://link.springer.com/book/10.1007/978-981-287-895-3): Ch 3, Ch 4.1-4.3.8.3, 4.4 <br/> [Schema.org](https://queue.acm.org/detail.cfm?id=2857276) |
 | 8 | 11/08   | Enterprise Knowledge Graphs & Management Systems | [Sequeda Thesis Ch 3](https://repositories.lib.utexas.edu/bitstream/handle/2152/30537/SEQUEDA-DISSERTATION-2015.pdf) <br/> [Sequeda Thesis Ch 4](https://repositories.lib.utexas.edu/bitstream/handle/2152/30537/SEQUEDA-DISSERTATION-2015.pdf) <br/> [Optional: Pay-as-you-go Methodology Case Study](https://github.com/juansequeda/papers/blob/master/iswc2019.pdf) (Focus on Section 4)|
 | 9 | 11/15   | Natural Language Interfaces to Data | [BELA](https://download.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/UKP/76500354.pdf) <br/> [ATHENA](http://www.vldb.org/pvldb/vol9/p1209-saha.pdf) <br/> [Optional: ATHENA++](http://www.vldb.org/pvldb/vol13/p2747-sen.pdf) <br/> [Optional: IRNet](https://aclanthology.org/P19-1444.pdf)|
-| 10 | 11/22   | Graph Embeddings/Deep Natural Language Embeddings  | |
+| 10 | 11/22   | Graph Embeddings/Deep Natural Language Embeddings  | [TransE](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf) <br/> [Q&A With Embeddings](https://arxiv.org/pdf/1406.3676.pdf) <br/> [Optional: Survey on KG Embeddings](https://ieeexplore.ieee.org/document/8047276)|
 | 11 | 11/29   |  Guest Lecture on Data Cataloging: Juan Sequeda  | |
 | 12 | 12/06   | Linked Open Data Movement | |
 
