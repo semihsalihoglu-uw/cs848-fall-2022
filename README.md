@@ -45,8 +45,8 @@ The below schedule is subject to change:
 | 8 | 11/08   | Enterprise Knowledge Graphs & Management Systems | [Sequeda Thesis Ch 3](https://repositories.lib.utexas.edu/bitstream/handle/2152/30537/SEQUEDA-DISSERTATION-2015.pdf) <br/> [Sequeda Thesis Ch 4](https://repositories.lib.utexas.edu/bitstream/handle/2152/30537/SEQUEDA-DISSERTATION-2015.pdf) <br/> [Optional: Pay-as-you-go Methodology Case Study](https://github.com/juansequeda/papers/blob/master/iswc2019.pdf) (Focus on Section 4)|
 | 9 | 11/15   | Natural Language Interfaces to Data | [BELA](https://download.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/UKP/76500354.pdf) <br/> [ATHENA](http://www.vldb.org/pvldb/vol9/p1209-saha.pdf) <br/> [Optional: ATHENA++](http://www.vldb.org/pvldb/vol13/p2747-sen.pdf) <br/> [Optional: IRNet](https://aclanthology.org/P19-1444.pdf)|
 | 10 | 11/22   | Graph Embeddings/Deep Natural Language Embeddings  | [TransE](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf) <br/> [Q&A With Embeddings](https://arxiv.org/pdf/1406.3676.pdf) <br/> [Optional: Survey on KG Embeddings](https://ieeexplore.ieee.org/document/8047276)|
-| 11 | 11/29   |  Guest Lecture on Data Cataloging: Juan Sequeda  | |
-| 12 | 12/06   | Linked Open Data Movement | |
+| 11 | 11/29   |  Guest Lecture on Data Cataloging: Juan Sequeda & Other Enterprise Applications | [Datanami Article](https://www.datanami.com/2022/09/30/what-does-it-mean-for-a-data-catalog-to-be-powered-by-a-knowledge-graph/) <br/> [Saga](https://arxiv.org/pdf/2204.07309.pdf) |
+| 12 | 12/06   | Linked Open Data Movement | [Google Dataset Search](https://dl.acm.org/doi/pdf/10.1145/3308558.3313685) <br/> [Table Union Search](http://www.vldb.org/pvldb/vol11/p813-nargesian.pdf) <br/> Optional: [Making Open Datasets Transparent](http://www.cs.toronto.edu/~christina/documents/MakingOpenDataTransparent.pdf)|
 
 ## Readings
 
